@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name" : "search",
+"description" : "This is a tool that provides various options for advance and versatile search.",
+"homepage_url": "http://iamvp7.github.io/", 
+"version": "1.0",
+"icons": { "48": "icons/sid.jpg", "96": "icons/sid.jpg" }, 
+"permissions" : [ "contextMenus" ], 
+"background": { "scripts": ["background.js"] }
+}
